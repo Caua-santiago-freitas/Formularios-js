@@ -1,2 +1,2 @@
-# Formularios-js
-Projeto para aplicar conhecimentos em formulários no curso Programador Web, concluído em 2026.
+# formularios-js
+Projeto para treinamento de formulários com Bootstrap 5.0.2 e JS no curso Programador Web, concluído em 2026.
